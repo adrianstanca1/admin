@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "@agent-infra/mcp-server-browser": "^1.1.7",
-    "@agent-tars/core": "^0.1.8",
+    "@agent-infra/mcp-server-browser": "^1.2.29",
+    "@agent-tars/core": "^0.3.0",
     "@ai-sdk/google-vertex": "^3.0.21",
     "@ai-sdk/vercel": "^1.0.15",
     "@elevenlabs/elevenlabs-js": "^2.1.0",
